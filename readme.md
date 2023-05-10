@@ -1,8 +1,4 @@
-# ejercicio-alumno
+## pruebas y errores en haskell de la cursada
+tincho.
 
-## Integrantes
-
-- integrante1 (usuario github)
-- Nahuel Orlando (naorlando)
-- Federico Sastre (FedeSastre)
 ...
