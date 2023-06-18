@@ -1,0 +1,7 @@
+cradle:
+  stack:
+    - path: "./src"
+      component: "ParcialCarreras:lib"
+
+    - path: "./test"
+      component: "ParcialCarreras:test:ParcialCarreras-test"
