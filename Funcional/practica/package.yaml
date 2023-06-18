@@ -1,6 +1,6 @@
-name:                template-funcional
+name:                practica
 version:             0.1.0.0
-github:              "githubuser/template-funcional"
+github:              "githubuser/practica"
 license:             BSD3
 author:              "Author name here"
 maintainer:          "example@example.com"
@@ -17,7 +17,7 @@ extra-source-files:
 # To avoid duplicated efforts in documentation and dealing with the
 # complications of embedding Haddock markup inside cabal files, it is
 # common to point users to the README.md file.
-description:         Please see the README on GitHub at <https://github.com/githubuser/template-funcional#readme>
+description:         Please see the README on GitHub at <https://github.com/githubuser/practica#readme>
 
 dependencies:
 - base >= 4.7 && < 5
@@ -34,7 +34,7 @@ library:
   other-modules: []
 
 tests:
-  template-funcional-test:
+  practica-test:
     main:                CorrerTests.hs
     source-dirs:         test
     ghc-options:
@@ -42,5 +42,5 @@ tests:
     - -rtsopts
     - -with-rtsopts=-N
     dependencies:
-    - template-funcional
+    - practica
 
